@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bon Axl</h1>
 <h3 align="center">An aspiring software engineer whose currently studying at AvionSchool</h3>
 
-- 🌱 I’m currently learning **Ruby on Rails, JavaScript, Jquery, CSS and HTML**
+- 🌱 I’m currently learning **Ruby on Rails, JavaScript, jQuery, CSS and HTML**
 
 - 📫 How to reach me **bonaxl015@gmail.com**
 
