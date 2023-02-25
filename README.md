@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonaxl015&label=Profile%20views&color=0e75b6&style=flat" alt="bonaxl015" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bonaxl015" alt="bonaxl015" /></a> </p>
-
 - 🌱 I’m currently learning **NodeJS, Express and MongoDB**
 
 - 📫 How to reach me **bonaxl015@gmail.com**
