@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bon Axl</h1>
-<h3 align="center">Software engineer who specializes in front end frameworks and libraries such as ReactJS, VueJS, Typescript and Webpack</h3>
+<h3 align="center">Software engineer who specializes in full stack development using Javascript/Typescript</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bonaxl015&label=Profile%20views&color=0e75b6&style=flat" alt="bonaxl015" /> </p>
-
-- 🌱 I’m currently learning **NodeJS, Express and MongoDB**
 
 - 📫 How to reach me **bonaxl015@gmail.com**
 
